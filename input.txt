@@ -1,0 +1,12 @@
+8
+abc
+efg
+hi
+abc
+hi
+rr
+efg
+abc
+2
+efg
+ab
